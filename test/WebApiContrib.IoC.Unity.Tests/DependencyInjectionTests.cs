@@ -1,13 +1,8 @@
-﻿using System.Linq;
-using System.Net.Http;
+﻿using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Controllers;
-using System.Web.Http.Dispatcher;
 using Microsoft.Practices.Unity;
 using NUnit.Framework;
-using Rhino.Mocks;
-using Should;
-using WebApiContrib.IoC.Unity;
 using WebApiContrib.IoC.Unity.Tests.Helpers;
 
 namespace WebApiContrib.IoC.Unity.Tests.IoC
